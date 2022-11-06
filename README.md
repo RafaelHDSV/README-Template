@@ -23,7 +23,16 @@
 
 Users should be able to:
 
-- DESCRIPTION OF WHAT THE USER CAN DO:
+- DESCRIPTION OF WHAT THE USER CAN DO
+<!--- View the optimal layout for the app depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Add new todos to the list
+- Mark todos as complete
+- Delete todos from the list
+- Filter by all/active/complete todos
+- Clear all completed todos
+- Toggle light and dark mode
+- **Bonus**: Drag and drop to reorder items on the list-->
 
 ### Links
 
@@ -44,11 +53,11 @@ Users should be able to:
 
 ### Built with
 
-- DESCRIPTION OF LANGUAGE:
-- Semantic HTML5 markup
+- DESCRIPTION OF LANGUAGE
+<!--- Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Javascript properties
+- Javascript properties-->
 
 [⬆ Back to the top](#name_of_repository)<br>
