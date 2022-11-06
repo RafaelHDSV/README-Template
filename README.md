@@ -47,7 +47,7 @@ Users should be able to:
     
   - Mobile
     
-    ![](bg.jpg)
+    <img src="bg.jpg" alt="bg.jpg" width="500px" height="700px">
 
 ## My process
 
