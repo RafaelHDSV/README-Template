@@ -47,7 +47,7 @@ Users should be able to:
     
   - Mobile
     
-    <img src="bg.jpg" alt="bg.jpg" width="500px" height="700px">
+    <img src="bg.jpg" alt="bg.jpg" width="300px">
 
 ## My process
 
